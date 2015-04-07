@@ -1,0 +1,52 @@
+# Segrè Lab Commons repository Git-ignored file list.
+
+# Binaries and other executables
+# ==============================
+*.exe
+*.o
+
+# Libraries and included files
+# ============================
+*.a
+*.dll
+*.dylib
+*.jar
+*.la
+*.so
+
+# Archives, packages, and other compressed files
+# ==============================================
+*.7z
+*.bz2
+*.gz
+*.tar
+*.zip
+
+# Databases, logs, and other storage files
+# ========================================
+*.log
+*.sql
+*.sqlite
+
+# Operating system and/or program auto-generated files
+# ====================================================
+*.DS_Store
+*.DS_Store?
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+thumbs.db
+
+# Backup and/or other temporary files
+# ===================================
+tmp/
+*~
+*.bak
+*.katebak
+
+# Miscellaneous
+# =============
+
+# matlab
+*.mat
